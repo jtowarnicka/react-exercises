@@ -1,0 +1,33 @@
+h1,
+p {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: rgb(187, 187, 230);
+  text-align: center;
+}
+.form-check-input {
+  margin: 10px;
+}
+.todo-data {
+  margin: 20px;
+  box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, 0.2);
+}
+.note-data {
+  margin: 20px;
+  box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, 0.2);
+}
+.btn {
+  margin-top: 10px;
+}
+li {
+  margin-top: 10px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+.done {
+  color: gray;
+}

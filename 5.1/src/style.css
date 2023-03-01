@@ -1,0 +1,13 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+p {
+  text-align: center;
+  margin-bottom: 0;
+  color: #333333;
+  width: 100px;
+  background-color: aquamarine;
+  font-size: 16px;
+}

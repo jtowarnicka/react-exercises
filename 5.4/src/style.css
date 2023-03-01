@@ -1,0 +1,17 @@
+p {
+  font-size: small;
+  font-family: Lato;
+  margin: 2px;
+  padding-bottom: 1px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+.title {
+  font-weight: bold;
+}
+img {
+  width: 100px;
+}
